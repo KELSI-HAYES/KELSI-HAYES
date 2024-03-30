@@ -2,4 +2,8 @@
 
 Rough draft version. Will be updated ASAP.
 
-"https://kelsi-hayes.github.io/KELSI-HAYES/Maps3D/erosion_rivernetwork.html"
+Mobile AR Version:
+https://kelsi-hayes.github.io/KELSI-HAYES/Maps3D/erosion_rivernetwork.html
+
+WEB Version:
+https://kelsi-hayes.github.io/KELSI-HAYES/Maps3D/erosion_rivernetworkweb2.html
